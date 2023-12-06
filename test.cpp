@@ -2,7 +2,12 @@
 
 int main(){
   std::cout<<"hello";
+  bar();
   foo();
+}
+
+void bar(){
+  std::cout<<"bar function";
 }
 
 void foo(){
