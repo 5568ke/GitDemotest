@@ -11,5 +11,8 @@ void bar(){
 }
 
 void foo(){
-	std::cout<<"foo function"<<std::endl
+	std::cout<<"foo function"<<std::endl;
 } 
+void mes_is_god(){
+	std::cout<<"Mes is GOD!!!"<<std::endl;
+}
