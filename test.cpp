@@ -12,4 +12,8 @@ void bar(){
 
 void foo(){
 	std::cout<<"foo function"<<std::endl
-} 
+}
+
+void ama(){
+  std::cout << "syntax error" << std::endl;
+}	
